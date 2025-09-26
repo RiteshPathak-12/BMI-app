@@ -5,7 +5,8 @@ This project is built to demonstrate input handling, formula calculation, and re
 🚀 Features  
 ✅ Enter weight (kg) and height (cm/m)  
 ✅ Calculates BMI instantly  
-✅ Shows BMI category (Underweight, Normal, Overweight)  
+✅ Shows BMI category (Underweight, Normal, Overweight)
+✅ Provides a diet chart based on BMI category 
 ✅ Clean and responsive UI  
 ✅ Input validation for better user experience  
 
@@ -18,7 +19,8 @@ This project is built to demonstrate input handling, formula calculation, and re
 📚 Learning Outcomes  
 1. Understanding formula implementation in Android apps  
 2. Basics of UI design and input handling  
-3. Implementing classification logic and validation  
+3. Implementing classification logic and validation
+4. Providing health suggestions (diet chart) based on results 
 
 🤝 Contributing  
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.  
