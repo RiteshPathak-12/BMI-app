@@ -5,7 +5,7 @@ This project is built to demonstrate input handling, formula calculation, and re
 🚀 Features  
 ✅ Enter weight (kg) and height (cm/m)  
 ✅ Calculates BMI instantly  
-✅ Shows BMI category (Underweight, Normal, Overweight, Obese)  
+✅ Shows BMI category (Underweight, Normal, Overweight)  
 ✅ Provides a diet chart based on BMI category  
 ✅ Clean and responsive UI  
 ✅ Input validation for better user experience  
