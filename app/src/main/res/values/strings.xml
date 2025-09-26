@@ -1,0 +1,6 @@
+<resources>
+    <string name="HeightIN">Enter Height (in IN)</string>
+    <string name="HeightFT">Enter Hright (in FT)</string>
+    <string name="Weight">Enter Weight</string>
+    <string name="app_name">BMI</string>
+</resources>
